@@ -9,7 +9,7 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
 
 [Email](mailto:thuanhm.spkt@gmail.com) / [LinkedIn](https://www.linkedin.com/in/h%C3%A0-minh-thu%E1%BA%ADn-86166b170/) 
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 ENGINEERING EXPERIENCE
 
 💼**Backend Engineer** @ [FPT Japan](https://fptsoftware.jp/about-us/fpt-nearshore-japan) _(Jan 2023 - Present)_ <br>
 1. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
@@ -55,83 +55,30 @@ As an intern, I performed tasks such as writing a library to support testing Ren
   - Used Linux to do testing and test the board program.
   - **_Technologies used:_** Cmake Tool, C/C++, Python, Ubuntu Linux
     <br><br>
-## 📌 Volunteering
+## 📌 CERTIFICATION
 
-**EU Conference Team Member** @ [Write the Docs](https://www.writethedocs.org/conf/) _(Jul 2019 - Present)_<br>
-Technology conference focused on documentation systems, tech writing theory, and information delivery.
-  - [Emceed](https://workwithcarolyn.com/speaking/emcee) the last in-person event in 2019 and the first virtual event in 2020 
-  - Introduced speakers and faciliated Q&A sessions
-  <br><br>
-
-**Workshop Lead** @ [New Devs on the Block](https://newdevs.org/) _(Jul 2019 - Dec 2021)_ <br>
-Free, two-day workshops to help people build their first website.
-  - Creating a curriculum that covers HTML, CSS and a bit of JavaScript 
-  - Preparing supplemental presentations on topics like accessibility and animations
-  - Events in Nürnberg and Vienna, now post-poned due to the COVID-19 outbreak 
-  <br><br>
-
-**Web Development Instructor** @ [ReDI School of Digital Integration](https://www.redi-school.org/) _(Feb 2017 - Aug 2021)_<br>
-Non-profit digital school for tech-interested newcomers applying for asylum in Germany.
-  - Built and continuously developed the course curriculum with a team of 4-8 other instructors
-  - Led classes to improve student comprehension of React, HTML, CSS and general web design principles
-  - Mentored students through presentations and job search
-  - _Note: Took a break from teaching in 2019_
-  <br><br>
-
-**Co-Organizer** @ [QueerJS](https://queerjs.com/) _(Jun 2019 - Dec 2021)_<br>
-🏳️‍🌈 A meetup for everyone where queer speakers take the stage.
-  - Selected speakers and scheduling events
-  - Fostered an inclusive community and enforced the code of conduct
-  - 🐻 _Previously co-organized [BerlinJS](https://berlinjs.org/) from May 2018 - May 2020_
-  <br><br>
-  
-
-## 🎤 Public Speaking
-    
-### Recent Appearances
-
-- **JSHeroes** live in Cluj 🇷🇴 _(Jun 9, 2022)_
-<br>[Humanizing Your Documentation](https://www.youtube.com/watch?v=yE7eOoXTZtM)<br>
-
-- **single-threaded Podcast** _(released on Mar 31, 2021)_
-<br>[Crying at work](https://anchor.fm/single-threaded/episodes/Carolyn-Stransky-on-Crying-at-Work-etu7hj)<br>
+**Japanese-Language Proficiency Test N2** @ [JLPT N2](JPLT_N2_ThuanHM5.jpg) _(12/2021)_<br>
+<br>
+**Associate Reactive Developer (OutSystems 11)** @ [Outsystems11](ThuanHa_OutSystems_Certificate.pdf) _(6/2023)_ <br>
 <br>
 
-**Want me to speak at your event?**
-<br>💖 [Check out my website](https://workwithcarolyn.com/speaking) for more information.
-<br><br>
-  
-## 🏆 Accomplishments
-
-**Won First Place** @ [Rainbows End Sex Tech Hackathon](https://hack.touchyfeely.tech/) _(May 2021)_ <br>
-Built [Tentilex](https://workwithcarolyn.com/blog/tentilex), a wearable armband that records your hand movement and generates a live 3D-model. 
-
-**Top Author Recognition** @ [DEV](https://dev.to/) _(2019 - 2020)_ <br>
-Named one of the Top 500 authors in 2019. Also wrote two articles that ranked in the weekly Top 7:
-  - [How to remove condescending language from documentation](https://dev.to/meeshkan/how-to-remove-condescending-language-from-documentation-4a5p)
-  - [Onboarding a junior developer to your team? Here's 12 tips.](https://dev.to/carolstran/onboarding-a-junior-developer-to-your-team-here-s-12-tips-4g3a)
-<br><br>
-
-**Won Best Project** @ [Geek Girl Carrots Berlin Hackathon](http://www.hacklikeagirl.co/) _(Oct 2017)_<br>
-Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report and retrieve lost & found objects for travelers abroad.
-<br><br>
+## 🎤🏆 HONORS & AWARDS
+    
+- **Certificate of participation in the international autonomous vehicle programming competition called "Digital Race" season 4** @[4th Digital Race FPT](https://fpt.com/en/news/fpt-news/4th-season-digital-race-prizes-starts-with-record-breaking-prizes)
+- **Consolation prize for the led design contest at HCM UNIVERSITY OF TECHNOLOGY AND EDUCATION**
+<br>
 
 ## 💬 Languages
 
-🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
-<br><br>
+- **English**: Intermediate<br>
+- **Japanese**: Intermediate<br>
+- **Vietnamese**: Native<br>
+<br>
 
 ## 👩🏼‍🎓 Education
 
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
+**HCMC University of Technology and Education** focused on Embedded Software<br>
+[HCMUTE](https://hcmute.edu.vn/) - Ho Chi Minh City, VietNam _(Aug 2017 - Mar 2021)_ <br>
 
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
+**Comptia Sercurity+** in Udemy by Dion Training<br>
+[Comptia Sercurity+](https://www.udemy.com/course/securityplus/)
