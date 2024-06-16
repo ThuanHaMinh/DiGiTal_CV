@@ -32,7 +32,7 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
    - Propose and build logic for the website, suggesting solutions for handling logic and screen flow.
    - **_Technologies used:_**: Pega Platform, JavaScript, CSS.
   
-4. Technologies and learning experiences include:
+4. **Technologies and learning experiences include:**
    - **Pentesting:**: Setting up and practicing on a Kali Linux virtual machine for penetration testing on Windows XP SP2 and Metasploitable.
    - **Bug bounty**: Participating in security testing and identifying vulnerabilities on various websites, practicing on platforms like Hacker101 and CTF (Capture The Flag).
    - **Studying certifications on Udemy**: Completing courses and obtaining the CompTIA Security+ certification on the Udemy platform.
