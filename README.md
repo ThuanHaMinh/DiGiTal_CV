@@ -16,7 +16,7 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
    - Gather requirements from customers and write code according to the Detail Design document.
    - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.  
    - Investigate and fix bugs in the customer's code.
-   - **_Technologies used:_**: Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
+   - **_Technologies used:_** Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
   
 2. **Performing migration of a project using Java EJB running on Internet Explorer to Google Edge** :
    - Pioneer to the client company to understand the project, exchange ideas with the client, and grasp the operation of the existing system for the migration to the new system.
@@ -24,13 +24,13 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
    - Bring the project back to the company and design instructional files to guide other team members in the project.
    - Perform Unit Tests (UT) and Integration Tests (IT) to verify the completion of the migration.
    - Manage time effectively to ensure project completion and maintain project security.
-   - **_Technologies used:_**: Java EJB, Typescript, JavaServer Pages (JSP), HTML, CSS, JavaScript, Oracle database, Winmerge Tool.
+   - **_Technologies used:_** Java EJB, Typescript, JavaServer Pages (JSP), HTML, CSS, JavaScript, Oracle database, Winmerge Tool.
   
 3. **Construction of a project cost management website using Pega Platform, a low-code platform**:
    - Conduct negotiations and design web templates for clients.
    - Discuss website design with clients and design according to their requirements.
    - Propose and build logic for the website, suggesting solutions for handling logic and screen flow.
-   - **_Technologies used:_**: Pega Platform, JavaScript, CSS.
+   - **_Technologies used:_** Pega Platform, JavaScript, CSS.
   
 4. **Technologies and learning experiences include:**
    - **Pentesting:**: Setting up and practicing on a Kali Linux virtual machine for penetration testing on Windows XP SP2 and Metasploitable.
