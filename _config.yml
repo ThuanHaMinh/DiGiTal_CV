@@ -3,10 +3,9 @@ title: Ha Minh Thuan
 description: 👾🖥️Cybersecurity (Fresher)🖥️👾
 
 address: Ho Chi Minh - Viet Nam
-email: "Thuanhm.spkt@gmail.com"
 phone: "0792692655"
 
-theme: jekyll-theme-minimal 
+theme: jekyll-theme-minimal
 
 plugins:
   - jekyll-seo-tag # Add SEO plugin
