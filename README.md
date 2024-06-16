@@ -54,9 +54,8 @@ As an intern, I performed tasks such as writing a library to support testing Ren
   - Perform Integration Tests for libraries of Renesas.
   - Used Linux to do testing and test the board program.
   - **_Technologies used:_** Cmake Tool, C/C++, Python, Ubuntu Linux
-    <br><br>
+    <br>
 ## 📌CERTIFICATION
-
 **Japanese-Language Proficiency Test N2** @ [JLPT N2](JPLT_N2_ThuanHM5.jpg) _(12/2021)_<br>
 <br>
 **Associate Reactive Developer (OutSystems 11)** @ [Outsystems11](ThuanHa_OutSystems_Certificate.pdf) _(6/2023)_ <br>
