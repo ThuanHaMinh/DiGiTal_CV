@@ -12,13 +12,13 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 **Backend Engineer** @ [FPT Japan](https://fptsoftware.jp/about-us/fpt-nearshore-japan) _(Jan 2023 - Present)_ <br>
-1. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
+-  **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
   - Gather requirements from customers and write code according to the Detail Design document.
   - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.
   - Investigate and fix bugs in the customer's code.
   - **_Technologies used:_** Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
 <br>
-2. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
+1. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
   - Gather requirements from customers and write code according to the Detail Design document.
   - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.
   - Investigate and fix bugs in the customer's code.
