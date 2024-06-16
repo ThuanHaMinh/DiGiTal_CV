@@ -1,6 +1,6 @@
 # Ha Minh Thuan
 
-_Software engineer and Cybersercurity fresher based in Viet Nam <br>
+Software engineer and Cybersercurity fresher based in Viet Nam <br>
 
 [Email](mailto:thuanhm.spkt@gmail.com) / [LinkedIn](https://www.linkedin.com/in/h%C3%A0-minh-thu%E1%BA%ADn-86166b170/) 
 
