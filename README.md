@@ -13,16 +13,29 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
 
 **Backend Engineer** @ [FPT Japan](https://fptsoftware.jp/about-us/fpt-nearshore-japan) _(Jan 2023 - Present)_ <br>
 1. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
-- Gather requirements from customers and write code according to the Detail Design document.
-  - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.
-  - Investigate and fix bugs in the customer's code.
-  - **_Technologies used:_** Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
-<br>
-2. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
-  - Gather requirements from customers and write code according to the Detail Design document.
-  - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.
-  - Investigate and fix bugs in the customer's code.
-  - **_Technologies used:_** Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
+   - Gather requirements from customers and write code according to the Detail Design document.
+   - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.  
+   - Investigate and fix bugs in the customer's code.
+   - **_Technologies used:_**: Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
+  
+2. **Performing migration of a project using Java EJB running on Internet Explorer to Google Edge** :
+   - Pioneer to the client company to understand the project, exchange ideas with the client, and grasp the operation of the existing system for the migration to the new system.
+   - Extract Java code embedded in JSP files and migrate that Java logic to Typescript code.
+   - Bring the project back to the company and design instructional files to guide other team members in the project.
+   - Perform Unit Tests (UT) and Integration Tests (IT) to verify the completion of the migration.
+   - Manage time effectively to ensure project completion and maintain project security.
+   - **_Technologies used:_**: Java EJB, Typescript, JavaServer Pages (JSP), HTML, CSS, JavaScript, Oracle database, Winmerge Tool.
+  
+3. **Construction of a project cost management website using Pega Platform, a low-code platform**:
+   - Conduct negotiations and design web templates for clients.
+   - Discuss website design with clients and design according to their requirements.
+   - Propose and build logic for the website, suggesting solutions for handling logic and screen flow.
+   - **_Technologies used:_**: Pega Platform, JavaScript, CSS.
+  
+4. Technologies and learning experiences include:
+   - **Pentesting:**: Setting up and practicing on a Kali Linux virtual machine for penetration testing on Windows XP SP2 and Metasploitable.
+   - **Bug bounty**: Participating in security testing and identifying vulnerabilities on various websites, practicing on platforms like Hacker101 and CTF (Capture The Flag).
+   - **Studying certifications on Udemy**: Completing courses and obtaining the CompTIA Security+ certification on the Udemy platform.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
