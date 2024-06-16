@@ -2,7 +2,7 @@
 
 _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
 <br>
-  Contact: <br>
+  Contact: 
 - _📲Phone:_ 0792692655 <br>
 - _📩Mail:_ Thuanhm.spkt@gmail.com <br>
 - _🛖Address:_ Ho Chi Minh city - Viet Nam <br>
@@ -12,11 +12,17 @@ _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
 ## 👩🏼‍💻 Engineering Experience
 
 **Backend Engineer** @ [FPT Japan](https://fptsoftware.jp/about-us/fpt-nearshore-japan) _(Jan 2023 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+1. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
+  - Gather requirements from customers and write code according to the Detail Design document.
+  - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.
+  - Investigate and fix bugs in the customer's code.
+  - **_Technologies used:_** Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
+<br>
+2. **Developing a bidding website**: The project uses the Java programming language and the Spring MVC framework to develop a bidding website:
+  - Gather requirements from customers and write code according to the Detail Design document.
+  - Collaborate with customers to investigate and correct business code when it does not follow the correct logic.
+  - Investigate and fix bugs in the customer's code.
+  - **_Technologies used:_** Java, PostgreSQL database, JavaServer Pages (JSP), JavaScript, HTML, CSS.
 <br><br>
 
 **Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
