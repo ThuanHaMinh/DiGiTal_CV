@@ -55,6 +55,7 @@ As an intern, I performed tasks such as writing a library to support testing Ren
   - Used Linux to do testing and test the board program.
   - **_Technologies used:_** Cmake Tool, C/C++, Python, Ubuntu Linux
     <br>
+
 ## 📌CERTIFICATION
 **Japanese-Language Proficiency Test N2** @ [JLPT N2](JPLT_N2_ThuanHM5.jpg) _(12/2021)_<br>
 <br>
