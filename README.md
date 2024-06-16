@@ -1,6 +1,10 @@
 # Ha Minh Thuan
 
 _Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
+  _Contact:_
+    - Phone: 0792692655
+    - Mail : Thuanhm.spkt@gmail.com
+    - Address: Ho Chi Minh city - Viet Nam
 
 [Email](mailto:thuanhm.spkt@gmail.com) / [LinkedIn](https://www.linkedin.com/in/h%C3%A0-minh-thu%E1%BA%ADn-86166b170/) 
 
