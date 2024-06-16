@@ -1,12 +1,12 @@
 # Ha Minh Thuan
 
-Software engineer and Cybersercurity fresher based in Viet Nam <br>
+_Software engineer and Cybersercurity fresher based in Viet Nam_ <br>
 
 [Email](mailto:thuanhm.spkt@gmail.com) / [LinkedIn](https://www.linkedin.com/in/h%C3%A0-minh-thu%E1%BA%ADn-86166b170/) 
 
 ## 👩🏼‍💻 Engineering Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
+**Backend Engineer** @ [FPT Japan](https://fptsoftware.jp/about-us/fpt-nearshore-japan) _(Jan 2023 - Present)_ <br>
 No-code platform that enables professionals to build interactive applications.
   - Founding member of BRYTER's design system team and continued to provide support and extend the component library
   - Wrote code in multiple architecture layers, including the application core and integrations with external services
