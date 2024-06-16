@@ -55,14 +55,14 @@ As an intern, I performed tasks such as writing a library to support testing Ren
   - Used Linux to do testing and test the board program.
   - **_Technologies used:_** Cmake Tool, C/C++, Python, Ubuntu Linux
     <br><br>
-## 📌 CERTIFICATION
+## 📌CERTIFICATION
 
 **Japanese-Language Proficiency Test N2** @ [JLPT N2](JPLT_N2_ThuanHM5.jpg) _(12/2021)_<br>
 <br>
 **Associate Reactive Developer (OutSystems 11)** @ [Outsystems11](ThuanHa_OutSystems_Certificate.pdf) _(6/2023)_ <br>
 <br>
 
-## 🎤🏆 HONORS & AWARDS
+## 🏆 HONORS & AWARDS
     
 - **Certificate of participation in the international autonomous vehicle programming competition called "Digital Race" season 4** @[4th Digital Race FPT](https://fpt.com/en/news/fpt-news/4th-season-digital-race-prizes-starts-with-record-breaking-prizes)
 - **Consolation prize for the led design contest at HCM UNIVERSITY OF TECHNOLOGY AND EDUCATION**
